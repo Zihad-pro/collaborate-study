@@ -1,13 +1,12 @@
 🔗 Live link:
-https://athletichub-f25f3.web.app/
+https://assignment-12-8f3f2.web.app/
 
-Collaborative Study Summary
-AthleticHub is a full-stack sports web application built using the MERN stack (MongoDB, Express, React, Node.js) with Firebase Authentication. The project was developed collaboratively to enhance skills in frontend and backend development, user authentication, and role-based access control.
+Collaborative Study is an IT education platform built with the MERN stack that connects learners, instructors, and administrators in one place. The platform enables students to explore available courses or sessions, register easily, and track their learning journey. Instructors can create and manage course content, while admins oversee the entire platform with powerful management tools.
 
 🚀 Key Features:
 🔐 User authentication with Firebase (email/password and Google Sign-In)
 
-👥 Role-based access control (User and Admin roles)
+👥 Role-based access control (User,Tutor and Admin roles)
 
 🏅 Dynamic athlete profiles with detailed information and images
 
