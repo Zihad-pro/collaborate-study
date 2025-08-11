@@ -1,4 +1,4 @@
-🔗 Live Demo:
+🔗 Live link:
 https://athletichub-f25f3.web.app/
 
 Collaborative Study Summary
