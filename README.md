@@ -33,4 +33,4 @@ Collaborative Study is an IT education platform built with the MERN stack that c
 ![Project Banner](https://i.ibb.co.com/27XwQV7R/Banner.png)
 
 ## 🖼 Screenshots Project  : 
-![Project Banner](https://i.ibb.co.com/M3Wn5wF/Screenshot-2025-08-12-184636.png)
+![Project Dashboard](https://i.ibb.co.com/M3Wn5wF/Screenshot-2025-08-12-184636.png)
