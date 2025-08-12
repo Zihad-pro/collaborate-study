@@ -1,7 +1,7 @@
 🔗 Live link:
 https://assignment-12-8f3f2.web.app/
 
-Collaborative Study is an IT education platform built with the MERN stack that connects learners, instructors, and administrators in one place. The platform enables students to explore available courses or sessions, register easily, and track their learning journey. Instructors can create and manage course content, while admins oversee the entire platform with powerful management tools.
+Collaborative Study is an IT education platform built with the MERN stack that connects learners, Tutor, and administrators in one place. The platform enables students to explore available courses or sessions, register easily, and track their learning journey. Tutors can create and manage course content, while admins oversee the entire platform with powerful management tools.
 
 🚀 Key Features:
 🔐 User authentication with Firebase (email/password and Google Sign-In)
@@ -12,7 +12,7 @@ Collaborative Study is an IT education platform built with the MERN stack that c
 
 📅 Event listings with registration and booking capabilities
 
-⚙️ Admin dashboard for managing events, athletes, and user roles
+⚙️ Admin dashboard for managing Tutor study sessions , and user roles
 
 📱 Responsive and intuitive UI built with React and Tailwind CSS
 
@@ -27,5 +27,7 @@ Collaborative Study is an IT education platform built with the MERN stack that c
 
 📡 Axios for API calls
 
+
+![Project Banner](https://i.ibb.co.com/27XwQV7R/Banner.png)
 
 
