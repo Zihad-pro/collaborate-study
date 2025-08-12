@@ -28,9 +28,8 @@ Collaborative Study is an IT education platform built with the MERN stack that c
 📡 Axios for API calls
 
 
-Screenshots Project  : 
 
-
-(https://i.ibb.co.com/27XwQV7R/Banner.png)
+## 🖼 Screenshots Project  : 
+![Project Banner](https://i.ibb.co.com/27XwQV7R/Banner.png)
 
 
